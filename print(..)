@@ -1,0 +1,8 @@
+# Alguns exemplos de como usar a função print() em Python:
+# Print simples: A maneira mais simples de usar a função print() é chamá-la sem passar nenhum argumento. Isso retornará uma linha em branco:
+
+print()
+
+# Print com mensagem: Para exibir uma mensagem na tela, basta passar a mensagem desejada como argumento para a função1.
+
+print("Olá, mundo!")
